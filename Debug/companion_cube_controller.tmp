@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega88P"</DEVICE>
+ <WORKING_DIR>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include\m88pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\Debug/companion_cube_controller.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\Debug/companion_cube_controller.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\Debug\companion_cube_controller.map</FILE>
+  <FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\Debug\companion_cube_controller.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>30</LINE></reset>
+  <setup><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>51</LINE></setup>
+  <ext_int0><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>193</LINE></ext_int0>
+  <t1_cmpa_int><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>244</LINE></t1_cmpa_int>
+  <t1_of_int><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>214</LINE></t1_of_int>
+  <t0_overflow><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>127</LINE></t0_overflow>
+  <adc_int><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>117</LINE></adc_int>
+  <data_table><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>297</LINE></data_table>
+  <loop><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>111</LINE></loop>
+  <ret_int><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>146</LINE></ret_int>
+  <t1_conf_adc><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>154</LINE></t1_conf_adc>
+  <t1_conf_pulse><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>173</LINE></t1_conf_pulse>
+  <of_check><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>202</LINE></of_check>
+  <analog_ctrl><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>208</LINE></analog_ctrl>
+  <t1_of_down><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>225</LINE></t1_of_down>
+  <up_to_down><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>231</LINE></up_to_down>
+  <read_up><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>273</LINE></read_up>
+  <of_to_cmp><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>236</LINE></of_to_cmp>
+  <read_down><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>285</LINE></read_down>
+  <t1_cmp_down><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>255</LINE></t1_cmp_down>
+  <cmp_to_of><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>266</LINE></cmp_to_of>
+  <down_to_up><FILE>C:\Users\ripper\Documents\companion_cube\firware_controller\companion_cube_controller\companion_cube_controller.asm</FILE><LINE>261</LINE></down_to_up>
+ </LABELS>
+</ASSEMBLER_INFO>
